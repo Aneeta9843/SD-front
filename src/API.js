@@ -10,7 +10,7 @@ var baseURL;
 // baseURL = "https://arroundtheworld-backend.herokuapp.com";
 // }
 // baseURL = "http://127.0.0.1:8000/";
-baseURL='https://around-the-world-backend.onrender.com'
+baseURL='https://cinema-back-ijsm.onrender.com/'
 
 const api = axios.create({
   baseURL: baseURL,
